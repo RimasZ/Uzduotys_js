@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "funkcijos": "nodemon ./js/3-funkcijos.js",
     "ciklai": "nodemon ./js/2-ciklai.js",
     "kintamieji": "nodemon ./js/1-kintamieji.js",
     "test": "echo \"Error: no test specified\" && exit 1"
